@@ -1,1 +1,3 @@
-# sezgisel-anlamaya-dayal-bir-blog
+# sezgisel anlamaya dayalı bir blog
+
+#www.patika.dev
